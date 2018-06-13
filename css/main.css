@@ -604,6 +604,8 @@ li {
     border: 0;
     border-bottom: 2px solid var(--darkblue); 
     padding: 5px 20px;
+    font-size: 18px;
+    font-family: Arial;
 }
 .area-text::placeholder {
     font-size: 18px;
